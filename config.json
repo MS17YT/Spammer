@@ -1,0 +1,23 @@
+{
+    "api_id": ID,
+    "api_hash": "APIHASH",
+    "phone_number": "TUONUMERO",
+    "gruppo_url": "https://t.me/+Um0byTzXXqUxOWJk",
+    "canale_url": "https://t.me/+NQ99XZEM7O9iOTg0",
+    "message_template": "GRUPPO UFFICIALI Chat Italiane\n\n Gruppo: {gruppo}\n",
+    "interval_minutes": 15,
+    "random_delay": 5,
+    "working_hours": {
+        "start": 7,
+        "end": 23
+    },
+    "excluded_keywords": [
+        "test",
+        "privato",
+        "famiglia",
+        "lavoro",
+        "admin",
+        "staff",
+        "riservato"
+    ]
+}
