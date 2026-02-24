@@ -1,10 +1,10 @@
 {
     "api_id": ID,
     "api_hash": "APIHASH",
-    "phone_number": "TUONUMERO",
-    "gruppo_url": "https://t.me/+Um0byTzXXqUxOWJk",
-    "canale_url": "https://t.me/+NQ99XZEM7O9iOTg0",
-    "message_template": "GRUPPO UFFICIALI Chat Italiane\n\n Gruppo: {gruppo}\n",
+    "phone_number": "NUMERO",
+    "gruppo_url": "",
+    "canale_url": "",
+    "message_template": "",
     "interval_minutes": 15,
     "random_delay": 5,
     "working_hours": {
@@ -20,4 +20,5 @@
         "staff",
         "riservato"
     ]
+
 }
