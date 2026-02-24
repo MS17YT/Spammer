@@ -37,7 +37,7 @@ class Config:
                 "phone_number": "",
                 "gruppo_url": "https://t.me/+",
                 "canale_url": "https://t.me/+",
-                "message_template": "🔥🔥 GRUPPO UFFICIALE 18+ 🔥🔥\n\n👉 Gruppo: {gruppo}\n👉 Canale: {canale}\n\nUnisciti subito! 🔞",
+                "message_template": "",
                 "interval_minutes": 30,
                 "random_delay": 5,
                 "working_hours": {"start": 9, "end": 23},
@@ -369,4 +369,5 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # Esegui
+
     asyncio.run(main())
